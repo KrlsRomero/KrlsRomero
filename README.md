@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects ADSO Sena
 - 🤔 I’m looking for help with mi life!
 - 💬 Ask me about Me
-- 📫 How to reach me: car_683@outlook.com
+- 📫 How to reach me: [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](car_683@outlook.com)
 - 😄 Pronouns: CarTech
 - ⚡ Fun fact: 
 
