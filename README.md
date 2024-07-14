@@ -1,4 +1,16 @@
 # Hi! 👋 Bienvenid@ al GitHub de KrlsRomero
+**KrlsRomero/KrlsRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ADSO
+- 🌱 I’m currently learning Fundamentos de programación
+- 👯 I’m looking to collaborate on Projects ADSO Sena
+- 🤔 I’m looking for help with mi life!
+- 💬 Ask me about Me
+- 📫 How to reach me: car_683@outlook.com
+- 😄 Pronouns: CarTech
+- ⚡ Fun fact: 
 
 <!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@KrlsRomero/) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krlsrmro/)
@@ -12,21 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Estadísticas
+## Estadísticas 📊
 ![KrlsRomero' Stats](https://github-readme-stats.vercel.app/api?username=KrlsRomero&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrlsRomero&layout=compact&thme=dark)
 
-**KrlsRomero/KrlsRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ADSO
-- 🌱 I’m currently learning Fundamentos de programación
-- 👯 I’m looking to collaborate on Projects ADSO Sena
-- 🤔 I’m looking for help with mi life!
-- 💬 Ask me about Me
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
