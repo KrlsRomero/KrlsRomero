@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ADSO
-- 🌱 I’m currently learning Fundamentos de programación
-- 👯 I’m looking to collaborate on Projects ADSO Sena
+- 🌱 I’m currently learning Programming Fundamentals
+- 👯 I’m looking to collaborate on Projects ADSO SENA
 - 🤔 I’m looking for help with mi life!
 - 💬 Ask me about Me
 - 📫 How to reach me: krlsrmro.683@gmail.com
