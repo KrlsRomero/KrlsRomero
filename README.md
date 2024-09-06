@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![KrlsRomero' Stats](https://github-readme-stats.vercel.app/api?username=KrlsRomero&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrlsRomero&layout=compact&thme=dark)
 
 
