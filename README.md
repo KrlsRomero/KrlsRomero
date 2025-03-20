@@ -1,4 +1,4 @@
-# Hi! 👋 Bienvenid@ al GitHub de KrlsRomero
+# Hi! 👋 Bienvenid@ al GitHub de Carlos Andrés Romero
 **KrlsRomero/KrlsRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
